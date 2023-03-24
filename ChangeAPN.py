@@ -7,6 +7,7 @@ Version:    1.0
 
 Usage:      - Run the script with the default admin password as argument
             - change the apndata field to represent the intended APN
+            - The /2/ portion of the line identifies the profile index, change accordingly /config/wan/rules2/2/modem/apn_mode
 
 Function:
 The function of this specific script is to set the APN to Manual and add a custom APN
